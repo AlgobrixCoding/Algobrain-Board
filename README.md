@@ -1,4 +1,3 @@
-
 <h1 align="center"> Arduino Algobrain Package</h1>
 
 ## *Introduction*
