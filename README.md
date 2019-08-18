@@ -13,7 +13,7 @@ This package includes :
 ## *Algobrain Board Installation*
 Installing the board is very simple with just a few steps :
 1. **Arduino IDE ---> File ---> Preferences ---> Additional Boards Manager URLs**
-<p align="center">![Step 1](https://i.imgur.com/gLPYp0q.png)</p>
+<p align="center"><img src="https://i.imgur.com/gLPYp0q.png"></img></p>
 2. Add the following :
 https://raw.githubusercontent.com/Algobrix/arduino_algobot_board/master/package_Algobot_index.json
 <p align="center">![Step 2](https://i.imgur.com/tk5hSfY.png)</p>
