@@ -16,7 +16,7 @@ Installing the board is very simple with just a few steps :
 <p align="center"><img src="https://i.imgur.com/gLPYp0q.png"></img></p>
 2. Add the following :
 https://raw.githubusercontent.com/Algobrix/arduino_algobot_board/master/package_Algobot_index.json
-<p align="center">![Step 2](https://i.imgur.com/tk5hSfY.png)</p>
+<p align="center"><img src="https://i.imgur.com/tk5hSfY.png"></img></p>
 3. **Arduino IDE ---> Tools ---> Board ---> Boards Manager**
-<p align="center">![Step 3](https://i.imgur.com/aEKIZ74.png)</p>
+<p align="center"><img src="https://i.imgur.com/aEKIZ74.png"</img></p>
 
