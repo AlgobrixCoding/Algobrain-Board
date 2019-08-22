@@ -32,8 +32,9 @@ In the "Type" box search for Algobrain and install the latest version
 Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#algobrain-board-installation) the Algobrain board.
 1. Download the [compiled algobrain source code](https://github.com/AlgobrixCoding/Algobrain/tree/master/Compiled%20Algobrain).
 2. Connect the Algobrain via the Micro USB.
-3. Open AVRDUDESS :
+3. Open AVRDUDESS : </br>
 ![AVRDUDESS](https://i.imgur.com/Q6Pxwr7.png)
+```html
 <font size='2px'>
 <font color='red' size='3px'>**Red Section :**</font>
 -- Programmer = "Arduino"
@@ -45,4 +46,5 @@ Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/ma
  -- Press the "..." to select the file we want to upload.
 -- "Write" should be picked
 -- Format = Intel Hex</font>
+```
 4. Press "Go" / "Program!" and wait for results.
