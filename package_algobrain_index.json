@@ -1,0 +1,38 @@
+{
+    "packages":[
+        {
+            "name":"Algobrain",
+            "maintainer":"Algobrix",
+            "websiteURL":"http://www.algobrix.com",
+            "email":"tzahm@algobrix.com",
+            "help":{
+                "online":"https://github.com/AlgobrixCoding/Algobrain"
+            },
+            "platforms":[
+                {
+                    "name":"Algobrix Boards",
+                    "architecture":"avr",
+                    "version":"1.0.0",
+                    "category":"contributed",
+                    "help":{
+                        "online":"https://github.com/AlgobrixCoding/Algobrain"
+                    },
+                    "url":"https://github.com/AlgobrixCoding/Algobrain/blob/master/algobrain_1.0.0.rar",
+                    "archiveFileName":"algobrain_1.0.0.rar",
+                    "size":"92414",
+                    "boards":[
+                        {
+                            "name":"Algobrain_328PB"
+                        }
+                    ],
+                    "toolsDependencies":[
+
+                    ]
+                }
+            ],
+            "tools":[
+
+            ]
+        }
+    ]
+}
