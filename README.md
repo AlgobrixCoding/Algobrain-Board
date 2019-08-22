@@ -1,5 +1,11 @@
 <h1 align="center"> Arduino Algobrain Package</h1>
 
+## *Table of contents*
+ - [Introduction](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#introduction)
+ - [Prerequisites](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#prerequisites)
+ - [Algobrain Board Installation](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#algobrain-board-installation)
+ - Burning of the source code
+
 ## *Introduction*
 This package includes :
 
