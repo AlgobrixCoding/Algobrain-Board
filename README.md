@@ -36,16 +36,16 @@ Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/ma
 ![AVRDUDESS](https://i.imgur.com/Q6Pxwr7.png)
 
 ![#ec1c24](https://placehold.it/15/ec1c24/000000?text=+) **Red Section :**
--- Programmer = "Arduino"
--- Port = The port connected to the Algobrain (Usually COM<??>)
+- Programmer = "Arduino"
+- Port = The port connected to the Algobrain (Usually COM<??>)
 
 ![#3f48cc](https://placehold.it/15/3f48cc/000000?text=+) **Blue Section :**
--- MCU = "ATmega328PB"
--- Detect = Press this to see if the Algobrain is detected
+- MCU = "ATmega328PB"
+- Detect = Press this to see if the Algobrain is detected
 
 ![#0ed145](https://placehold.it/15/0ed145/000000?text=+) **Green Section :**
--- Press the "..." to select the file we want to upload.
--- "Write" should be picked
--- Format = Intel Hex
+- Press the "..." to select the file we want to upload.
+- "Write" should be picked
+- Format = Intel Hex
 
 4. Press "Go" / "Program!" and wait for results.
