@@ -4,8 +4,8 @@
  - [Introduction](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#introduction)
  - [Prerequisites](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#prerequisites)
  - [Algobrain Board Installation](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#algobrain-board-installation)
- - [Uploading source code](https://github.com/AlgobrixCoding/Algobrain#uploading-source-code)
- - What's next?
+ - [Uploading source code](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#uploading-source-code)
+ - [What's next?](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#whats-next)
 
 ## *Introduction*
 This package includes :
@@ -49,4 +49,4 @@ Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/ma
 - Format = Intel Hex
 
 4. Press "Go" / "Program!" and wait for results.
-## *What's next?
+## *What's next?*
