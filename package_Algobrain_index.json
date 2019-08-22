@@ -1,0 +1,35 @@
+{
+    "packages":[
+        {
+            "name":"Algobrain",
+            "maintainer":"Algobrix",
+            "websiteURL":"http://www.algobrix.com",
+            "email":"tzahm@algobrix.com",
+            "platforms":[
+                {
+                    "name":"Algobrix Boards",
+                    "architecture":"avr",
+                    "version":"0.1.0",
+                    "category":"Contributed",
+                    "url":"https://github.com/AlgobrixCoding/Algobrain/blob/master/0.1.0.zip",
+                    "archiveFileName":"0.1.0.zip",
+                    "size":"105133",
+                    "help":{
+                        "online":"https://github.com/AlgobrixCoding/Algobrain"
+                    },
+                    "boards":[
+                        {
+                            "name":"Algobrain_328PB"
+                        }
+                    ],
+                    "toolsDependencies":[
+
+                    ]
+                }
+            ],
+            "tools":[
+
+            ]
+        }
+    ]
+}
