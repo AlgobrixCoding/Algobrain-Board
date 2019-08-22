@@ -33,3 +33,16 @@ Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/ma
 1. Download the [compiled algobrain source code](https://github.com/AlgobrixCoding/Algobrain/tree/master/Compiled%20Algobrain).
 2. Connect the Algobrain via the Micro USB.
 3. Open AVRDUDESS :
+![AVRDUDESS](https://i.imgur.com/Q6Pxwr7.png)
+<font size='2px'>
+<font color='red' size='3px'>**Red Section :**</font>
+-- Programmer = "Arduino"
+-- Port = The port connected to the Algobrain (Usually COM<??>)
+<font color='blue' size='3px'>**Blue Section :**</font> 
+ -- MCU = "ATmega328PB"
+ -- Detect = Press this to see if the Algobrain is detected
+ <font color='green' size='3px'>**Green Section :**</font> 
+ -- Press the "..." to select the file we want to upload.
+-- "Write" should be picked
+-- Format = Intel Hex</font>
+4. Press "Go" / "Program!" and wait for results.
