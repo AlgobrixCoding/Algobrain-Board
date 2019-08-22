@@ -5,13 +5,14 @@
             "maintainer":"Algobrix",
             "websiteURL":"http://www.algobrix.com",
             "email":"tzahm@algobrix.com",
+			"help" : { "online" : "https://github.com/AlgobrixCoding/Algobrain" },
             "platforms":[
                 {
-                    "name":"Algobrix Boards",
+                    "name":"Algobrain Board",
                     "architecture":"avr",
                     "version":"0.1.0",
                     "category":"Contributed",
-                    "url":"https://github.com/AlgobrixCoding/Algobrain/blob/master/Algobrain_0.1.0.zip",
+                    "url":"https://github.com/AlgobrixCoding/Algobrain/raw/master/Algobrain_0.1.0.zip",
                     "archiveFileName":"Algobrain_0.1.0.zip",
                     "size":"105136",
                     "boards":[
