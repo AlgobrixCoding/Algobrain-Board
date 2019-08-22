@@ -12,11 +12,8 @@
                     "version":"0.1.0",
                     "category":"Contributed",
                     "url":"https://github.com/AlgobrixCoding/Algobrain/blob/master/0.1.0.zip",
-                    "archiveFileName":"0.1.0.zip",
-                    "size":"105133",
-                    "help":{
-                        "online":"https://github.com/AlgobrixCoding/Algobrain"
-                    },
+                    "archiveFileName":"Algobrain_0.1.0.zip",
+                    "size":"105136",
                     "boards":[
                         {
                             "name":"Algobrain_328PB"
@@ -28,7 +25,6 @@
                 }
             ],
             "tools":[
-
             ]
         }
     ]

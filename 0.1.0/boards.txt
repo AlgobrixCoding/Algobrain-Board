@@ -20,14 +20,14 @@ algobotpb.bootloader.lock_bits=0x0F
 algobotpb.bootloader.file=optiboot/optiboot_m328pb_autobaud.hex
 
 algobotpb.build.f_cpu=16000000L
-algobotpb.build.board=AVR_ALGO_BOT
+algobotpb.build.board=ALGOBRAIN
 algobotpb.build.core=arduino:arduino
 algobotpb.build.variant=algobrain_328pb
 algobotpb.build.mcu=atmega328pb 
 
 #algobotpb.build.vid = 0x1A86
 #algobotpb.build.pid = 0x7523
-#algobotpb.build.usb_product="Algobrain_328PB"
+#algobotpb.build.usb_product="AlgoBot_328PB"
 #algobotpb.build.usb_manufacturer="Algobrix"
 #algobotpb.build.extra_flags={build.usb_flags}
 
