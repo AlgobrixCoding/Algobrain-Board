@@ -4,7 +4,7 @@
  - [Introduction](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#introduction)
  - [Prerequisites](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#prerequisites)
  - [Algobrain Board Installation](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#algobrain-board-installation)
- - Uploading source code
+ - [Uploading source code](https://github.com/AlgobrixCoding/Algobrain#uploading-source-code)
  - What's next?
 
 ## *Introduction*
@@ -26,7 +26,7 @@ Installing the board is very simple with just a few steps :
 https://raw.githubusercontent.com/AlgobrixCoding/Algobrain/master/package_algobrain_index.json
 ![Step 2](https://i.imgur.com/tk5hSfY.png)
 3. **Arduino IDE ---> Tools ---> Board ---> Boards Manager**
-In the "Type" box search for Algobrain and install the latest version
+In the "Type" box search for Algobrain and install the latest version </br>
 ![Step 3](https://i.imgur.com/yYPASMb.png)
 ## *Uploading source code*
 Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#algobrain-board-installation) the Algobrain board.
@@ -49,3 +49,4 @@ Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/ma
 - Format = Intel Hex
 
 4. Press "Go" / "Program!" and wait for results.
+## *What's next?
