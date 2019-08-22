@@ -26,5 +26,5 @@ https://raw.githubusercontent.com/AlgobrixCoding/Algobrain/master/package_algobr
 ![Step 2](https://i.imgur.com/tk5hSfY.png)
 3. **Arduino IDE ---> Tools ---> Board ---> Boards Manager**
 In the "Type" box search for Algobrain and install the latest version
-4. 
+![Step 3](https://i.imgur.com/yYPASMb.png)
 ## *Uploading source code*
