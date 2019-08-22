@@ -5,8 +5,8 @@
 # For more info:
 # https://github.com/arduino/Arduino/wiki/Arduino-IDE-1.5-3rd-party-Hardware-specification
 
-name=AlgoBrix Boards
-version=1.0.0
+name=Algobrix Boards
+version=0.1.0
 
 # AVR compile variables
 # ---------------------
@@ -131,5 +131,5 @@ tools.avrdude_remote.upload.pattern=/usr/bin/run-avrdude /tmp/sketch.hex {upload
 # USB Default Flags
 # Default blank usb manufacturer will be filled in at compile time
 # - from numeric vendor ID, set to Unknown otherwise
-#build.usb_manufacturer="AlgoBrix"
+#build.usb_manufacturer="Algobrix"
 build.usb_flags=-DUSB_VID={build.vid} -DUSB_PID={build.pid} '-DUSB_MANUFACTURER={build.usb_manufacturer}' '-DUSB_PRODUCT={build.usb_product}'

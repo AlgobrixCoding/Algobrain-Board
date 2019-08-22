@@ -5,21 +5,20 @@
             "maintainer":"Algobrix",
             "websiteURL":"http://www.algobrix.com",
             "email":"tzahm@algobrix.com",
-            "help":{
-                "online":"https://github.com/AlgobrixCoding/Algobrain"
-            },
-            "platforms":[
-                {
-                    "name":"Algobrix Boards",
+            "platforms":
+			[
+				{
+					"name":"Algobrix Boards",
                     "architecture":"avr",
                     "version":"0.1.0",
-                    "category":"contributed",
-                    "help":{
+                    "category":"Contributed",
+                    "url":"https://github.com/AlgobrixCoding/Algobrain/blob/master/0.1.0.zip",
+                    "archiveFileName":"0.1.0.zip",
+					"checksum": "SHA256:FF54BB344814081C48E3C78D636C782460EF4B605216E5371FA4D96B48C99C52",
+                    "size":"105133",
+					"help":{
                         "online":"https://github.com/AlgobrixCoding/Algobrain"
                     },
-                    "url":"https://github.com/AlgobrixCoding/Algobrain/blob/master/algobrain_pack_0.1.0.zip",
-                    "archiveFileName":"algobrain_pack_0.1.0.zip",
-                    "size":"105131",
                     "boards":[
                         {
                             "name":"Algobrain_328PB"
