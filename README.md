@@ -5,7 +5,7 @@
  - [Prerequisites](https://github.com/AlgobrixCoding/Algobrain#prerequisites)
  - [Algobrain Board Installation](https://github.com/AlgobrixCoding/Algobrain#algobrain-board-installation)
  - [Uploading source code](https://github.com/AlgobrixCoding/Algobrain#uploading-source-code)
- - [What's next? (AlgorainLib)](https://github.com/AlgobrixCoding/Algobrain#whats-next)
+ - [What's next? (Algorain Library)](https://github.com/AlgobrixCoding/Algobrain#whats-next)
 
 ## *Introduction*
 This package includes :
