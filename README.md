@@ -1,11 +1,11 @@
 <h1 align="center"> Arduino Algobrain Board Package</h1>
 
 ## *Table of contents*
- - [Introduction](https://github.com/AlgobrixCoding/Algobrain#introduction)
- - [Prerequisites](https://github.com/AlgobrixCoding/Algobrain#prerequisites)
- - [Algobrain Board Installation](https://github.com/AlgobrixCoding/Algobrain#algobrain-board-installation)
- - [Uploading source code](https://github.com/AlgobrixCoding/Algobrain#uploading-source-code)
- - [What's next? (Algorain Library)](https://github.com/AlgobrixCoding/Algobrain#whats-next)
+ - [Introduction](https://github.com/AlgobrixCoding/Algobrain-Board#introduction)
+ - [Prerequisites](https://github.com/AlgobrixCoding/Algobrain-Board#prerequisites)
+ - [Algobrain Board Installation](https://github.com/AlgobrixCoding/Algobrain-Board#algobrain-board-installation)
+ - [Uploading source code](https://github.com/AlgobrixCoding/Algobrain-Board#uploading-source-code)
+ - [What's next? (Algorain Library)](https://github.com/AlgobrixCoding/Algobrain-Board#whats-next)
 
 ## *Introduction*
 This package includes :
@@ -23,14 +23,14 @@ Installing the board is very simple with just a few steps :
 1. **Arduino IDE ---> File ---> Preferences ---> Additional Boards Manager URLs**
 ![Step 1](https://i.imgur.com/gLPYp0q.png)
 2. Add the following :</br>
-https://raw.githubusercontent.com/AlgobrixCoding/Algobrain/master/package_algobrain_index.json
+https://raw.githubusercontent.com/AlgobrixCoding/Algobrain-Board/master/package_algobrain_index.json
 ![Step 2](https://i.imgur.com/tk5hSfY.png)
 3. **Arduino IDE ---> Tools ---> Board ---> Boards Manager**
 In the "Type" box search for Algobrain and install the latest version </br>
 ![Step 3](https://i.imgur.com/yYPASMb.png)
 ## *Uploading source code*
-Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/master/README.md#algobrain-board-installation) the Algobrain board.
-1. Download the [compiled algobrain source code](https://github.com/AlgobrixCoding/Algobrain/tree/master/Compiled%20Algobrain).
+Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain-Board/blob/master/README.md#algobrain-board-installation) the Algobrain board.
+1. Download the [compiled algobrain source code](https://github.com/AlgobrixCoding/Algobrain-Board/tree/master/Compiled%20Algobrain).
 2. Connect the Algobrain via the Micro USB.
 3. Open AVRDUDESS : </br>
 ![AVRDUDESS](https://i.imgur.com/Q6Pxwr7.png)
