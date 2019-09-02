@@ -50,3 +50,5 @@ Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain/blob/ma
 
 4. Press "Go" / "Program!" and wait for results.
 ## *What's next?*
+After you feel comfortable with uploading code to your Algobrain check out the [Algobrain Library](https://github.com/AlgobrixCoding/AlgobrainLib).
+The Algobrain Library basically lets you use the Algobrain board's functionallity with ease.
