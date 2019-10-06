@@ -1,4 +1,4 @@
-<h1 align="center"> Arduino Algobrain Board Package</h1>
+<h1 align="center">Arduino Algobrain Board Package</h1>
 
 ## *Table of contents*
  - [Introduction](https://github.com/AlgobrixCoding/Algobrain-Board#introduction)
