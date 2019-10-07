@@ -17,7 +17,7 @@ This package includes :
  - [Download Arduino IDE 1.69 or higher](https://www.arduino.cc)
  - [Download AVRDUDESS](http://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/)
  - [If you haven't bought it yet, purchase the Algobrain Board here](http://www.algobrix.com/)
- - [Micro USB](https://www.amazon.com/s?k=Micro%20USB)
+ - [Micro USB is required](https://www.amazon.com/s?k=Micro%20USB)
 ## *Algobrain Board Installation*
 Installing the board is very simple with just a few steps :
 1. **Arduino IDE ---> File ---> Preferences ---> Additional Boards Manager URLs**
