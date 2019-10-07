@@ -14,9 +14,9 @@ This package includes :
  - **Compiled source code** of the Algobrain software
  - **Code examples** for using the Algobrain board
 ## *Prerequisites*
- - [Arduino IDE 1.69+](https://www.arduino.cc)
- - [AVRDUDESS](http://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/)
- - [Algobrain Board](http://www.algobrix.com/)
+ - [Download Arduino IDE 1.69 or higher](https://www.arduino.cc)
+ - [Download AVRDUDESS](http://blog.zakkemble.net/avrdudess-a-gui-for-avrdude/)
+ - [If you haven't bought it yet, purchase the Algobrain Board here](http://www.algobrix.com/)
  - [Micro USB](https://www.amazon.com/s?k=Micro%20USB)
 ## *Algobrain Board Installation*
 Installing the board is very simple with just a few steps :
