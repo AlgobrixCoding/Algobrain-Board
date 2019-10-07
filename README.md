@@ -31,7 +31,7 @@ In the "Type" box search for Algobrain and install the latest version </br>
 ## *Uploading source code*
 Make sure you've [installed](https://github.com/AlgobrixCoding/Algobrain-Board/blob/master/README.md#algobrain-board-installation) the Algobrain board.
 1. Download the [compiled algobrain source code](https://github.com/AlgobrixCoding/Algobrain-Board).
-To download it, just click the right button on the mouse and then save link. 
+To download it, press the clone or download button. Then, unzip the folder where you want it. 
 2. Connect the Algobrain via the Micro USB.
 3. Open AVRDUDESS : </br>
 read the instructions coming after the image. 
